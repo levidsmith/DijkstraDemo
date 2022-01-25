@@ -1,0 +1,14 @@
+Rockwood,Harriman,10
+Rockwood,Kingston,12
+Harriman,Oak Ridge,21
+Harriman,Kingston,6
+Kingston,Lenoir City,21
+Kingston,Oak Ridge,19
+Oak Ridge,Wartburg,22
+Oak Ridge,Lenoir City,25
+Oak Ridge,Clinton,14
+Oak Ridge,Knoxville,25
+Clinton,Knoxville,24
+Lenoir City,Maryville,20
+Lenoir City,Knoxville,27
+Knoxville,Maryville,18
